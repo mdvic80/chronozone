@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://chronozone.gr/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://chronozone.gr/</loc>
+</url>
+<url>
+<loc>https://chronozone.gr/10-koryfaia-sega-mega-drive-games.html</loc>
+<lastmod>2026-07-28T15:57:17+03:00</lastmod>
+<image:image>
+<image:loc>https://chronozone.gr/media/posts/6/sega-post.png</image:loc>
+<image:title><![CDATA[Sega Genesis]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://chronozone.gr/dead-cells-to-apolyto-mesaioniko-roguelite.html</loc>
+<lastmod>2026-07-27T21:45:25+03:00</lastmod>
+<image:image>
+<image:loc>https://chronozone.gr/media/posts/9/dead-cells.jpeg</image:loc>
+<image:title><![CDATA[Dead Cells Review]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://chronozone.gr/epikoinonia.html</loc>
+<lastmod>2026-07-28T15:54:02+03:00</lastmod>
+<image:image>
+<image:loc>https://chronozone.gr/media/posts/12/arcade-cabinet-retro.webp</image:loc>
+<image:title><![CDATA[contact chronozone.gr]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://chronozone.gr/metatrepste-to-raspberry-pi-se-retro-konsola-me-to-batocera.html</loc>
+<lastmod>2026-07-27T21:00:33+03:00</lastmod>
+<image:image>
+<image:loc>https://chronozone.gr/media/posts/7/batocera-linux-2.webp</image:loc>
+<image:title><![CDATA[Batocera Linux σε Raspberry Pi]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://chronozone.gr/oi-yperpaihnidares-blasphemous-1-kai-2.html</loc>
+<lastmod>2026-07-28T01:52:31+03:00</lastmod>
+<image:image>
+<image:loc>https://chronozone.gr/media/posts/11/blasphemous.jpg</image:loc>
+<image:title><![CDATA[Blasphemous games]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://chronozone.gr/poioi-eimaste.html</loc>
+<lastmod>2026-07-28T18:04:04+03:00</lastmod>
+<image:image>
+<image:loc>https://chronozone.gr/media/posts/3/Taiko-Arcade-Logo3.webp</image:loc>
+<image:title><![CDATA[chronozone.gr banner]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://chronozone.gr/streets-of-rage-4-review.html</loc>
+<lastmod>2026-07-27T21:04:58+03:00</lastmod>
+<image:image>
+<image:loc>https://chronozone.gr/media/posts/5/_image.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://chronozone.gr/ta-5-pio-akriva-videogames-tis-16-bit-epohis.html</loc>
+<lastmod>2026-07-28T15:56:29+03:00</lastmod>
+<image:image>
+<image:loc>https://chronozone.gr/media/posts/10/rare-16bit-games.jpg</image:loc>
+<image:title><![CDATA[Σπάνια 16bit videogames]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://chronozone.gr/ta-megalytera-snes-games.html</loc>
+<lastmod>2026-07-28T15:56:56+03:00</lastmod>
+<image:image>
+<image:loc>https://chronozone.gr/media/posts/8/snes-big-games.jpg</image:loc>
+<image:title><![CDATA[snes games difficult games to fully complete]]></image:title>
+</image:image>
+</url>
+</urlset>
