@@ -3,7 +3,7 @@
     <title>Chronozone</title>
     <link href="https://chronozone.gr/feed.xml" rel="self" />
     <link href="https://chronozone.gr" />
-    <updated>2026-08-02T00:04:29+03:00</updated>
+    <updated>2026-08-02T00:16:28+03:00</updated>
     <author>
         <name>Akuma</name>
     </author>
@@ -885,16 +885,10 @@
 </ul>
 <p> </p>
 <div class="terminal-review-box">
-<div class="terminal-review-header align-center">[ Η ΒΑΘΜΟΛΟΓΙΑ ΓΙΑ ΤΗΝ MINA ]</div>
-<div class="terminal-review-stat align-center">🎮 Γραφικά  ████████░░</div>
-<div class="terminal-review-stat align-center">🔊 Ήχος      █████████░</div>
-<div class="terminal-review-stat align-center">🕹️ Gplay     ████████░░</div>
-<div class="terminal-review-stat align-center">📜 Σενάριο  ████████░░</div>
-<div class="terminal-review-total align-center">&gt;&gt; ΒΑΘΜΟΛΟΓΙΑ: 8.3 / 10</div>
+<div class="terminal-review-header">[ GAME RATING MATRIX ]</div>
+<div class="terminal-review-total">&gt;&gt; TOTAL SCORE: 8.5 / 10</div>
+<div class="terminal-review-comment">Το Mina the Hollower δεν είναι απλώς ένα ακόμα indie παιχνίδι που βασίζεται στη νοσταλγία. Είναι ένας από τους καλύτερους τίτλους της χρονιάς. Η Yacht Club Games πήρε όλα όσα έκαναν το Shovel Knight σπουδαίο και τα εφάρμοσε σε ένα εντελώς διαφορετικό είδος, παραδίδοντας ένα αριστούργημα που στέκεται επάξια δίπλα στα κλασικά παιχνίδια που το ενέπνευσαν. Αν είσαι λάτρης των 8/16-bit retro games, των top-down Zelda ή των Castlevania, το Mina the Hollower είναι μια αγορά που επιβάλλεται.</div>
 </div>
-<p data-path-to-node="46"> </p>
-<p data-path-to-node="47">Το <strong data-path-to-node="47" data-index-in-node="3">Mina the Hollower</strong> δεν είναι απλώς ένα ακόμα indie παιχνίδι που βασίζεται στη νοσταλγία. Είναι ένας από τους καλύτερους τίτλους της χρονιάς. Η Yacht Club Games πήρε όλα όσα έκαναν το <i data-path-to-node="47" data-index-in-node="185">Shovel Knight</i> σπουδαίο και τα εφάρμοσε σε ένα εντελώς διαφορετικό είδος, παραδίδοντας ένα αριστούργημα που στέκεται επάξια δίπλα στα κλασικά παιχνίδια που το ενέπνευσαν.</p>
-<p data-path-to-node="48">Αν είσαι λάτρης των 8/16-bit retro games, των top-down <i data-path-to-node="48" data-index-in-node="55">Zelda</i> ή των <i data-path-to-node="48" data-index-in-node="67">Castlevania</i>, το <strong data-path-to-node="48" data-index-in-node="83">Mina the Hollower</strong> είναι μια αγορά που επιβάλλεται.</p>
             ]]>
         </content>
     </entry>
