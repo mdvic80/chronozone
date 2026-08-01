@@ -3,7 +3,7 @@
     <title>Chronozone</title>
     <link href="https://chronozone.gr/feed.xml" rel="self" />
     <link href="https://chronozone.gr" />
-    <updated>2026-08-01T00:46:50+03:00</updated>
+    <updated>2026-08-01T12:57:09+03:00</updated>
     <author>
         <name>Akuma</name>
     </author>
@@ -2057,20 +2057,20 @@
         </author>
         <link href="https://chronozone.gr/10-koryfaia-sega-mega-drive-games/"/>
         <id>https://chronozone.gr/10-koryfaia-sega-mega-drive-games/</id>
-        <media:content url="https://chronozone.gr/media/posts/6/sega-post.png" medium="image" />
+        <media:content url="https://chronozone.gr/media/posts/6/sonic.jpg" medium="image" />
             <category term="αφιερώματα"/>
             <category term="sega"/>
 
         <updated>2026-07-26T01:00:17+03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://chronozone.gr/media/posts/6/sega-post.png" alt="Sega Genesis" />
+                        <img src="https://chronozone.gr/media/posts/6/sonic.jpg" alt="Sega Genesis" />
                     Η χρυσή εποχή των 16-bit συσκευών είχε έναν αδιαμφισβήτητο βασιλιά που έφερε την arcade εμπειρία στο σαλόνι μας. Το Sega Mega Drive δεν ήταν απλώς&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://chronozone.gr/media/posts/6/sega-post.png" class="type:primaryImage" alt="Sega Genesis" /></p>
+                    <p><img src="https://chronozone.gr/media/posts/6/sonic.jpg" class="type:primaryImage" alt="Sega Genesis" /></p>
                 <p class="dropcap">Η χρυσή εποχή των 16-bit συσκευών είχε έναν αδιαμφισβήτητο βασιλιά που έφερε την arcade εμπειρία στο σαλόνι μας. Το <strong data-path-to-node="3" data-index-in-node="116">Sega Mega Drive</strong> δεν ήταν απλώς μια κονσόλα· ήταν μια ολόκληρη φιλοσοφία, σημαδεμένη από την ταχύτητα, την επαναστατική μουσική και χαρακτήρες που έγιναν θρύλοι.</p>
 <p data-path-to-node="4">Ας κάνουμε μια βουτιά στο παρελθόν, αναλύοντας τα 10 κορυφαία παιχνίδια που καθόρισαν την πορεία του και συνεχίζουν να μας συγκινούν.</p>
 <h3 data-path-to-node="6">1. Sonic the Hedgehog 2</h3>
