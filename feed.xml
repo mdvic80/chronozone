@@ -3,7 +3,7 @@
     <title>Chronozone</title>
     <link href="https://chronozone.gr/feed.xml" rel="self" />
     <link href="https://chronozone.gr" />
-    <updated>2026-08-01T23:45:21+03:00</updated>
+    <updated>2026-08-02T00:04:29+03:00</updated>
     <author>
         <name>Akuma</name>
     </author>
@@ -886,10 +886,10 @@
 <p> </p>
 <div class="terminal-review-box">
 <div class="terminal-review-header align-center">[ Η ΒΑΘΜΟΛΟΓΙΑ ΓΙΑ ΤΗΝ MINA ]</div>
-<div class="terminal-review-stat align-center">🎮 Γραφικά: ████████░░ [8/10]</div>
-<div class="terminal-review-stat align-center">🔊 Ήχος: █████████░ [9/10]</div>
-<div class="terminal-review-stat align-center">🕹️ Gameplay: ████████░░ [8/10]</div>
-<div class="terminal-review-stat align-center">📜 Σενάριο: ████████░░ [8/10]</div>
+<div class="terminal-review-stat align-center">🎮 Γραφικά  ████████░░</div>
+<div class="terminal-review-stat align-center">🔊 Ήχος      █████████░</div>
+<div class="terminal-review-stat align-center">🕹️ Gplay     ████████░░</div>
+<div class="terminal-review-stat align-center">📜 Σενάριο  ████████░░</div>
 <div class="terminal-review-total align-center">&gt;&gt; ΒΑΘΜΟΛΟΓΙΑ: 8.3 / 10</div>
 </div>
 <p data-path-to-node="46"> </p>
