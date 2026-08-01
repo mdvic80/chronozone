@@ -3,7 +3,7 @@
     <title>Chronozone</title>
     <link href="https://chronozone.gr/feed.xml" rel="self" />
     <link href="https://chronozone.gr" />
-    <updated>2026-08-01T12:57:09+03:00</updated>
+    <updated>2026-08-01T23:45:21+03:00</updated>
     <author>
         <name>Akuma</name>
     </author>
@@ -883,8 +883,16 @@
 <p data-path-to-node="43,1,0">Η πλοήγηση στον χάρτη χωρίς οδηγό μπορεί μερικές φορές να μπερδέψει.</p>
 </li>
 </ul>
-<h2 data-path-to-node="45">Τελική Ετυμηγορία</h2>
-<p data-path-to-node="46"><strong data-path-to-node="46" data-index-in-node="0">Βαθμολογία: 9.5 / 10</strong></p>
+<p> </p>
+<div class="terminal-review-box">
+<div class="terminal-review-header align-center">[ Η ΒΑΘΜΟΛΟΓΙΑ ΓΙΑ ΤΗΝ MINA ]</div>
+<div class="terminal-review-stat align-center">🎮 Γραφικά: ████████░░ [8/10]</div>
+<div class="terminal-review-stat align-center">🔊 Ήχος: █████████░ [9/10]</div>
+<div class="terminal-review-stat align-center">🕹️ Gameplay: ████████░░ [8/10]</div>
+<div class="terminal-review-stat align-center">📜 Σενάριο: ████████░░ [8/10]</div>
+<div class="terminal-review-total align-center">&gt;&gt; ΒΑΘΜΟΛΟΓΙΑ: 8.3 / 10</div>
+</div>
+<p data-path-to-node="46"> </p>
 <p data-path-to-node="47">Το <strong data-path-to-node="47" data-index-in-node="3">Mina the Hollower</strong> δεν είναι απλώς ένα ακόμα indie παιχνίδι που βασίζεται στη νοσταλγία. Είναι ένας από τους καλύτερους τίτλους της χρονιάς. Η Yacht Club Games πήρε όλα όσα έκαναν το <i data-path-to-node="47" data-index-in-node="185">Shovel Knight</i> σπουδαίο και τα εφάρμοσε σε ένα εντελώς διαφορετικό είδος, παραδίδοντας ένα αριστούργημα που στέκεται επάξια δίπλα στα κλασικά παιχνίδια που το ενέπνευσαν.</p>
 <p data-path-to-node="48">Αν είσαι λάτρης των 8/16-bit retro games, των top-down <i data-path-to-node="48" data-index-in-node="55">Zelda</i> ή των <i data-path-to-node="48" data-index-in-node="67">Castlevania</i>, το <strong data-path-to-node="48" data-index-in-node="83">Mina the Hollower</strong> είναι μια αγορά που επιβάλλεται.</p>
             ]]>
